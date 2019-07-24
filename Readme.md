@@ -8,6 +8,6 @@ Shows word clouds of the manifestos
 * Tokenizing
 * Removing stopwords
 * Stemming
-* Creating word cloud via [wortwolken.com](https://www.wortwolken.com/)
+* Creating word cloud via [wordcloud2.js](https://github.com/timdream/wordcloud2.js/)
 
 :link: https://dominikherold.github.io/SachsenWahl2019/ :link:
