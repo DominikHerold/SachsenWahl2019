@@ -1,4 +1,4 @@
-147 Sachsen
+179 Sachsen
 54 Menschen
 51 Wege
 48 Ziele
@@ -7,7 +7,6 @@
 40 Zukunft
 40 Land
 34 Arbeit
-32 Sachsens
 32 Bildung
 31 Raum
 30 Entwicklung

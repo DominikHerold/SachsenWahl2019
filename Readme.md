@@ -7,6 +7,7 @@ Shows word clouds of the manifestos
 * Converting pdfs to MD via [pdf2md](http://pdf2md.morethan.io/)
 * Tokenizing
 * Removing stopwords
+* Stemming
 * Creating word cloud via [wortwolken.com](https://www.wortwolken.com/)
 
 :link: https://dominikherold.github.io/SachsenWahl2019/ :link:

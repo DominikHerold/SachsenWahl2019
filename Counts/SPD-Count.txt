@@ -1,8 +1,8 @@
 333 Sachsen
 149 Menschen
+121 Schulen
 91 Kinder
 74 Jahren
-74 Schulen
 71 Unternehmen
 68 Land
 65 Gesellschaft
@@ -12,7 +12,6 @@
 54 Arbeit
 51 Zukunft
 51 Kommunen
-47 Schule
 46 Unterstützung
 46 Mittel
 45 STÄRKEN

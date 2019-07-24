@@ -1,7 +1,7 @@
-215 Sachsen
+246 Sachsen
+88 Freistaat
 66 Bildung
 60 Unternehmen
-59 Freistaat
 54 Bürger
 54 Kommunen
 53 Schulen
@@ -14,7 +14,5 @@
 32 Wirtschaft
 32 Raum
 31 Digitalisierung
-31 Sachsens
 31 Unterstützung
 30 Zusammenarbeit
-29 Freistaates

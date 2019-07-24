@@ -1,7 +1,6 @@
 310 Sachsen
+199 GRÜNE
 149 Menschen
-82 GRÜNE
-79 GRÜN
 75 Freistaat
 64 Förderung
 62 Landwirtschaft
@@ -17,4 +16,3 @@
 39 Polizei
 39 Bürgerinnen
 39 Gesellschaft
-38 GRÜNEN
