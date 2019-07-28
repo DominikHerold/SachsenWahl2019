@@ -982,7 +982,8 @@ if (!window.clearImmediate) {
         }
       }
       // we tried all distances but text won't fit, return false
-      return false;
+      item[1] = item[1] * 3 / 4;
+      return putWord(item);
     };
 
     /* Send DOM event to all elements. Will stop sending event and return
